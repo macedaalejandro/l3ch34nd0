@@ -14,4 +14,5 @@
 			if($dat=mysql_fetch_array($cans)){
 				$total=$dat['total']; #inicializo la variable en 0
 			}
+			echo "mamadas";
 ?>
